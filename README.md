@@ -13,7 +13,7 @@ Our data comes from a kaggle competition featuring the data from the content dis
 
 > Dataset Relationships:
 
-![Table Relationships](https://github.umn.edu/liang625/aws-click-big/blob/master/dataset%20relationships.PNG)
+![Table Relationships](https://github.com/Olliang/AWS-Click-Prediction/blob/master/dataset%20relationships.PNG)
 
 ## Approach
 1. Understand user behavior using AWS Quicksight
