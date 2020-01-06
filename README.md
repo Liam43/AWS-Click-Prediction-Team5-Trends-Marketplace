@@ -1,4 +1,4 @@
-# Ads Click Prediction Project Overview
+# Project Overview
 
 ## Key Question
 1. How can we enable marketers who only knows SQL to do ad-hoc querying and dashboarding on big data?
