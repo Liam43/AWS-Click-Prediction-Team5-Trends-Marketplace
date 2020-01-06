@@ -19,7 +19,7 @@ Our data comes from a kaggle competition featuring the data from the content dis
 1. Understand user behavior using AWS Quicksight
 2. Build a Model that successfully predicts whether a user will click on an ad, rank the likelihood an ad will be clicked given a set of recommendations
 
-![Approach Framework](https://github.umn.edu/liang625/aws-click-big/blob/master/Framework.png)
+![Approach Framework](https://github.com/Olliang/AWS-Click-Prediction/blob/master/Framework.png)
 
 We used Amazon S3 to store our data, used Amazon Athena and QuickSight to perform EDA, and used Apache Spark, Amazon SageMaker, EC2, and EMR to create our model.
 
