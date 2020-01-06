@@ -37,7 +37,7 @@ We used Athena to perform querying and feed the result to QuickSight for Dashboa
 
 **Desktop**
 
-![Dashboard Demo Desktop](https://github.umn.edu/liang625/aws-click-big/blob/master/quicksight_desktop.jpeg)
+![Dashboard Demo Desktop](https://github.com/Olliang/AWS-Click-Prediction/blob/master/quicksight_desktop.jpeg)
 
 
 ## Main files
