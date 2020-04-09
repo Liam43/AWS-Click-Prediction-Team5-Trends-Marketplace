@@ -41,7 +41,7 @@ We used Athena to perform querying and feed the result to QuickSight for Dashboa
 
 
 ## Main files
-`sql query for viz.html`: Some SQL queries used in Spark SQL or Amazon Athena
+`sql query for viz.html`: Some SQL queries used in Spark SQL or Amazon Athena(save link as...)
 
 `feature_engineering.ipynb`: Feature engineering and table exploration in PySpark on Amazon EMR cluster
 
